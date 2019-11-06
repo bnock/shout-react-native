@@ -1,5 +1,5 @@
 # shout-react-native
-A React Native implementation of the Shout application.  The Shout application will allow users to discover each other based upon GPS location and proximity.  Users will determine the radius of proximity that they would like to discover and be discovered in.  They will also be able to determine how much information about themselves to share with other users and their messaging avilability.  If two users are within proximity and both have messaging enabled they will be able to instant message each other.  In case of harrassment or abuse, users will have the ability to block other users.
+A React Native implementation of the Shout application.  The Shout application will allow users to discover each other based upon GPS location and proximity.  Users will determine the radius of proximity that they would like to discover and be discovered in.  They will also be able to determine how much information about themselves to share with other users and their messaging availability.  If two users are within proximity and both have messaging enabled they will be able to instant message each other.  In case of harrassment or abuse, users will have the ability to block other users.
 
 ## Operations
 * Register a user
